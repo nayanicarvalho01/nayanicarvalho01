@@ -1,70 +1,87 @@
-👋 Hi, I'm Nayani
-💻 Backend Java Engineer | SRE
-🌍 Building scalable and reliable systems
-🚀 About Me
+# 👋 Hi, I'm Nayani  
 
-I’m a Backend Engineer with a strong focus on Site Reliability Engineering (SRE), working on building and maintaining highly available and resilient systems.
+💻 Backend Java Engineer | SRE  
+🎓 Automation & Control Engineer  
+🌍 Building a career in scalable and reliable systems  
 
-Currently, I work in the banking sector, dealing with real-world production environments, where reliability is critical.
+---
 
-🔎 What I focus on:
+## 🚀 About Me  
 
-Distributed systems
-Observability & monitoring
-Incident analysis
-System reliability & performance
-🧠 Tech Stack
-🖥️ Backend
+I’m a Backend Engineer with a strong focus on **Site Reliability Engineering (SRE)**, working on building and maintaining **highly available and resilient systems**.  
 
+Currently, I work as a **Trainee SRE in the banking sector**, where I deal with real-world challenges such as:  
 
+- Distributed systems  
+- Observability and monitoring  
+- Incident analysis  
+- Production environments  
 
+I have a solid technical foundation in **backend development** and a growing focus on **system performance, resilience, and scalability**.  
 
-⚙️ SRE / DevOps
+---
 
+## 🛠️ Tech Stack  
 
+### 🖥️ Backend  
+- Java (Spring Boot)  
+- REST APIs  
+- Microservices Architecture  
 
+### ⚙️ SRE / DevOps  
+- Docker  
+- Linux   
+- Observability & Monitoring  
+- Incident Management  
 
+### 📡 Data & Messaging  
+- Kafka  
+- Redis  
+- MongoDB  
 
+---
 
-📡 Data & Messaging
+## 📂 Featured Projects  
 
+### 🔹 Financial Transaction Simulator (Microservices Architecture)  
 
+A real-world inspired system that simulates transaction flows (like card payments).  
 
+- Event-driven architecture with Kafka  
+- Workflow orchestration using Camunda  
+- Redis for caching  
+- MongoDB for data persistence  
+- Focus on reliability and system flow  
 
+---
 
+## 📈 Currently Improving  
 
-📂 Featured Project
-🔹 Financial Transaction Simulator
+- Advanced Java & Spring ecosystem  
+- Kubernetes & container orchestration  
+- Cloud platforms (AWS / Azure)  
+- System design and scalability patterns  
 
-A system inspired by real-world payment processing (card transactions & online payments).
+---
 
-Key features:
+## 🌍 Career Goals  
 
-Event-driven architecture with Kafka
-Workflow orchestration using Camunda
-Redis for caching
-MongoDB for persistence
-Focus on reliability and transaction flow
-📊 GitHub Stats
+My goal is to work internationally as a **Backend/SRE Engineer**, contributing to:  
 
-📈 Currently Improving
-Kubernetes & container orchestration
-Cloud platforms (AWS / Azure)
-Advanced system design
-Scalability patterns
-🌍 Career Goal
+- Scalable distributed systems  
+- High-availability architectures  
+- Reliable production environments  
 
-To work internationally as a Backend / SRE Engineer, contributing to:
+---
 
-Scalable distributed systems
-High-availability architectures
-Reliable production environments
-🤝 Let's Connect
+## 📫 Contact  
 
-💼 LinkedIn: add your link here
+- LinkedIn: https://www.linkedin.com/in/nayani-carvalho-69a733364/ 
 
-⚡ Fun Fact
+---
 
-From electronics and industrial systems → to backend and reliability engineering 🚀
+## ⚡ Fun Facts  
 
-username=nayanicarvalho01
+- Background in electronics and industrial processes  
+- Passionate about system reliability and architecture  
+- Interested in international opportunities 🇪🇺  
