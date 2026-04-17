@@ -1,68 +1,70 @@
 👋 Hi, I'm Nayani
-
-💻 Backend Java Developer | SRE
-🎓 Automation & Control Engineer
-🌍 Building a career in scalable and reliable systems
-
+💻 Backend Java Engineer | SRE
+🌍 Building scalable and reliable systems
 🚀 About Me
 
-I’m a Backend Developer with a strong focus on Site Reliability Engineering (SRE), working on building and maintaining highly reliable and scalable systems.
+I’m a Backend Engineer with a strong focus on Site Reliability Engineering (SRE), working on building and maintaining highly available and resilient systems.
 
-Currently, I work as a Trainee SRE in the banking sector, where I deal with real-world challenges such as:
+Currently, I work in the banking sector, dealing with real-world production environments, where reliability is critical.
+
+🔎 What I focus on:
 
 Distributed systems
-Observability and monitoring
-Incident analysis and system reliability
-Production environments
+Observability & monitoring
+Incident analysis
+System reliability & performance
+🧠 Tech Stack
+🖥️ Backend
 
-I have a solid technical foundation in backend development and a growing focus on system performance, resilience, and scalability.
 
-🛠️ Tech Stack
 
-Backend
 
-Java (Spring Boot)
-REST APIs
-Microservices Architecture
+⚙️ SRE / DevOps
 
-SRE / DevOps
 
-Docker
-Linux
-Dynatrace
-Observability & Monitoring
-Incident Management
 
-Data & Messaging
 
-Kafka
-Redis
-MongoDB
-📂 Featured Projects
 
-🔹 Financial Transaction Simulator (Microservices Architecture)
-A real-world inspired system that simulates transaction flows (like card payments).
+
+📡 Data & Messaging
+
+
+
+
+
+
+📂 Featured Project
+🔹 Financial Transaction Simulator
+
+A system inspired by real-world payment processing (card transactions & online payments).
+
+Key features:
 
 Event-driven architecture with Kafka
 Workflow orchestration using Camunda
 Redis for caching
-MongoDB for data persistence
-Focus on reliability and system flow
+MongoDB for persistence
+Focus on reliability and transaction flow
+📊 GitHub Stats
+
 📈 Currently Improving
-Advanced Java & Spring ecosystem
 Kubernetes & container orchestration
 Cloud platforms (AWS / Azure)
-System design and scalability patterns
-🌍 Career Goals
+Advanced system design
+Scalability patterns
+🌍 Career Goal
 
-My goal is to work internationally as a Backend/SRE Engineer, contributing to:
+To work internationally as a Backend / SRE Engineer, contributing to:
 
 Scalable distributed systems
 High-availability architectures
 Reliable production environments
-📫 Contact
-LinkedIn: (add your link here)
-⚡ Fun Facts
-Background in electronics and industrial processes
-Passionate about system reliability and architecture
-Interested in international opportunities 🇪🇺
+🤝 Let's Connect
+
+💼 LinkedIn: add your link here
+
+⚡ Fun Fact
+
+From electronics and industrial systems → to backend and reliability engineering 🚀
+
+username=nayanicarvalho01
